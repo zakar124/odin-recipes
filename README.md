@@ -1,2 +1,2 @@
 # odin-recipes
-simple recipe website to showcase understanding of basic html knowledge 
+simple recipe website to show understanding of basic html knowledge 
