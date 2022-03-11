@@ -1,0 +1,9 @@
+body {background-image: linear-gradient(to right, rgb(231, 190, 190),rgb(151, 200, 228),rgb(235, 235, 157),rgb(157, 233, 157),rgb(216, 183, 219), rgb(175, 238, 247));}
+
+h1 {color: blueviolet;
+    font-family: Jazz LET, fantasy;
+text-align: center;
+font-size: 45px;}
+
+a:link {color: yellow;}
+
