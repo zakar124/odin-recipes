@@ -1,2 +1,2 @@
 # odin-recipes
-simple recipe website to show understanding of basic html knowledge 
+This is my first project with The Odin Project and, subsequently, my first fully-coded website! It's a simple recipe website that shows my understanding of basic html knowledge and CSS.
