@@ -1,5 +1,5 @@
 # odin-recipes
-This is my first project with The Odin Project and, subsequently, my first fully-coded website! It's a simple recipe website that shows my understanding of basic html knowledge and CSS.
+This is my first project with The Odin Project and, subsequently, my first website. It's a simple recipe website that shows my understanding of basic html knowledge and CSS.
 
 
 Index Page Gif Credit: https://giphy.com/gifs/spongebob-spongebob-squarepants-nickelodeon-nye-N23cG6apipMmQ
